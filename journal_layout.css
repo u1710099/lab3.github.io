@@ -1,0 +1,23 @@
+.one{
+	border:5px red solid;
+}
+.two{
+	border: 5px orange solid;
+}
+.three{
+	border: 5px blue solid;
+	background-color:#E8FBFB; 
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+.four{
+	border: 5px violet solid;
+}
+.five{
+	border: 5px green solid;
+
+}
+.date{
+	border: 5px purple solid;
+}
